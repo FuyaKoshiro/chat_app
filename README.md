@@ -1,4 +1,4 @@
-### Simple Chat App using React & Firebase
+# Simple Chat App using React & Firebase
 
 ### About
 This is a practice project to understand React and Firebase with Google authentification.
@@ -18,5 +18,6 @@ For security reason, this file is added to ".gitignore"
 ### Demo
 2 different google accounts were used to logged in. </br>
 2 local hosts were running. </br>
-https://github.com/FuyaKoshiro/chat_app/assets/108311122/8a7ebb1a-d8fe-4455-9f02-71cea263d75e
+[Link to Video](https://youtu.be/STpUognUOpQ)
+
 
