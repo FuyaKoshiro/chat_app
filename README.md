@@ -1,7 +1,7 @@
 # Simple Chat App using React & Firebase
 
 ### About
-This is a practice project to understand React and Firebase with Google authentification.
+This is a practice project to understand React and Firebase with Google authentication.
 
 ### Prerequisites
 Node.js: v20.0.0 </br>
